@@ -2,6 +2,8 @@
 
 Este é um simples projeto de página web que exibe cartas (cards) com imagens interativas. Quando o usuário passa o mouse sobre as imagens, elas ganham destaque com uma mistura de cores amarelas. As imagens são de uma onça, uma arara-azul e um alce.
 
+                 👉 https://lucasffernandes.github.io/Projeto-Cards/
+
 ## Pré-requisitos
 
 Certifique-se de ter um navegador web atualizado para visualizar corretamente o projeto.
